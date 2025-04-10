@@ -4,6 +4,9 @@ LawyerGPT is a legal document processing and query system that leverages AI to a
 
 > Illustrations by Popsy.co
 
+> [!IMPORTANT]  
+> Project paused due to billing costs.
+
 ## Features
 
 - **Upload Legal Documents**: Users can upload legal files such as contracts, agreements, and case briefs.
